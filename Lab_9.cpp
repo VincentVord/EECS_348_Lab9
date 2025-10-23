@@ -35,8 +35,6 @@ vector<vector<int>> add_matrix(const vector<vector<int>> &matrix1, const vector<
     return result;
 }
 
-
-
 int main() {
 
     ifstream File("input.txt");
